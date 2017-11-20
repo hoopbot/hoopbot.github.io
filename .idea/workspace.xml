@@ -2,110 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96cbb1da-0229-4c44-9f86-4cb0ae46cfea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icon/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/heroes/mystery.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/atl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/bkn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/bos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/cha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/chi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/cle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/dal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/den.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/det.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/gsw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/hou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/ind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/lac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/lal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/nop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/nyk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/okc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/orl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/phi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/phx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/por.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/sac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/sas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/tor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/uta.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/was.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fontawesome-webfont.674f50d287a8c48dc19b.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fontawesome-webfont.b06871f281fee6b241d6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fontawesome-webfont.fee66e712a8a08eef580.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/hoopbot.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/badge-app-store.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/badge-google-play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/atl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/bkn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/bos.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/cha.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/chi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/cle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/dal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/den.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/det.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/gsw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/hou.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/ind.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/lac.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/lal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mem.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mia.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/mil.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/min.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/nop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/nyk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/okc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/orl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/phi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/phx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/por.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/sac.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/sas.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/tor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/uta.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/team-logos/was.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fontawesome-webfont.912ec66d7572ff821749.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inline.fe8a60f7b25d4c44b0ed.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.1c7e0b08049100674a24.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/polyfills.ad37cd45a71cb38eee76.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles.a350c70ea2f60d3fc53e.bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,6 +32,9 @@
     <option name="width" value="1680" />
     <option name="height" value="956" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -148,7 +50,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,9 +72,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,42 +188,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511033168128</updated>
-      <workItem from="1511033169430" duration="27000" />
+      <workItem from="1511033169430" duration="51000" />
+      <workItem from="1511201512126" duration="106000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1511033204836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511033204836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27000" />
+    <option name="totallyTimeSpent" value="157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="956" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +240,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
